@@ -11,6 +11,6 @@ cd Hasher <br />
 chmod +x hasher.py <br />
 ./hasher.py <br />
 
-
+-----------------------------------
 
 please follow me on twitter :   https://twitter.com/Hossam59215885
