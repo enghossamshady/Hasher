@@ -7,8 +7,8 @@ SHA1 ,SHA224,SHA256, SHA384 , SHA256 and MD5
 
 git clone https://github.com/enghossamshady/Hasher.git <br />
 cd Hasher <br />
-chmod +x Hasher.py <br />
-./Hasher.py <br />
+chmod +x hasher.py <br />
+./hasher.py <br />
 
 
 
